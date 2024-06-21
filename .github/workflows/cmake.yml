@@ -9,9 +9,6 @@ on:
     branches:
       - master
       - development
-  release:
-    types:
-      - created
 
 jobs:
   build-windows:
